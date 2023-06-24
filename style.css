@@ -1263,7 +1263,9 @@ body{
     }
 
     .button-box{
-        left: 64rem;
+        position: absolute;
+        top: 2.2rem;
+        left: 60rem;
     }
 }
 
@@ -1359,6 +1361,12 @@ body{
         width: 4rem;
         height: 4rem;
     }
+
+    .button-box{
+        position: absolute;
+        top: 2.2rem;
+        left: 50.5rem;
+    }
 }
 
 
@@ -1438,7 +1446,9 @@ body{
     }
 
     .button-box{
-        left: 43rem;
+        position: absolute;
+        top: 2.2rem;
+        left: 41rem;
     }
 }
 
@@ -1491,11 +1501,10 @@ body{
     }
 
     .post-btn{
-        left: 60%;
+        bottom: 2rem;
+        width: 18%;
+        left: 68%;
     }
-
-    
-
 
     .post-icons i{
         right: 10rem;
@@ -1510,7 +1519,9 @@ body{
     }
 
     .button-box{
-        left: 30rem;
+        position: absolute;
+        top: 2.2rem;
+        left: 36.5rem;
     }
 }
 
