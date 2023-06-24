@@ -1503,7 +1503,8 @@ body{
     .post-btn{
         bottom: 2rem;
         width: 18%;
-        left: 68%;
+        bottom: 1rem;
+        left: 70%;
     }
 
     .post-icons i{
